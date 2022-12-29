@@ -16,7 +16,7 @@
 .sideContainer {
   width: calc(230px + ((100vw - 1000px) * ((320 - 230) / (1960 - 1000))));
   height: 100%;
-  background-color: #121212;
+  background-color: #e8e8e8;
   margin-inline: 20px;
 }
 
@@ -30,7 +30,7 @@
 
 .edgeContainer {
   height: 20%;
-  background-color: #121212;
+  background-color: #e8e8e8;
 }
 
 .outerCenterContainer {
@@ -198,8 +198,8 @@
   box-shadow: 0px 0px 20px -3px #42a2a5;
   color: #121212;
   font-size: 24px;
-  padding-block: 15px;
-  padding-inline: 20px;
+  padding-block: 19px;
+  padding-inline: 24px;
   cursor: pointer;
   transition: .4s;
   &:hover {

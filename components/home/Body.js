@@ -65,8 +65,6 @@ function Body(props) {
                                     </div>
                                 )
                         }
-
-
                     </div>
                     <div className={styles.edgeContainer}></div>
                 </div>
