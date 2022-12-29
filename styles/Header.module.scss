@@ -1,0 +1,13 @@
+.container {
+  height: 90px;
+  background-color: #121212;
+  box-shadow: 0px 0px 10px 6px #121212;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.fileImage {
+  width: calc(300px + ((100vw - 300px) * ((450 - 300) / (1920 - 300))));
+  height: calc(33px + ((100vw - 300px) * ((55 - 33) / (1920 - 300))));
+}
