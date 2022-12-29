@@ -62,6 +62,7 @@ function Body(props) {
                                         }} className={styles.selectButton}><HiOutlineDocumentPlus
                                             className={styles.iconDocumentAdd}/>Select File
                                         </button>
+                                        <p className={styles.underSelect}>Max file size 1GB. Sign Up for more</p>
                                     </div>
                                 )
                         }
@@ -71,6 +72,14 @@ function Body(props) {
                 <div className={styles.sideContainer}></div>
             </div>
 
+            <div className={styles.signUpContainer}>
+                <div className={styles.signUpAds}></div>
+                <div className={styles.signUpBox}>
+                    <h1 className={styles.signUpTitle}>Do you want to convert large files without being bothered by Ads? Upgrade Now!</h1>
+                    <button className={styles.signUpButton}>Sign Up</button>
+                </div>
+                <div className={styles.signUpAds}></div>
+            </div>
 
             <div className={styles.howToContainer}>
 
