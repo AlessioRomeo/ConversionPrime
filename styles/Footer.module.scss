@@ -9,7 +9,7 @@
   padding-top: 100px;
 }
 
-.mainLabel {
+.labelContainer {
   display: grid;
   grid-template-columns: repeat(5, 1fr);
   @media (max-width: 1150px) {

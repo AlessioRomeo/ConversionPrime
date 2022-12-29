@@ -4,7 +4,7 @@ import styles from '../../styles/Footer.module.scss'
 function Footer(props) {
     return (
         <div className={styles.container}>
-                <div className={styles.mainLabel}>
+                <div className={styles.labelContainer}>
                     <div className={styles.section}>
                         <h1>Image Converter</h1>
                         <p>JPG to PDF</p>
