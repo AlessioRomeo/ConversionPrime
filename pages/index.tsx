@@ -1,7 +1,7 @@
 import React from 'react';
-import Header from '../components/sections/Header'
-import Body from '../components/Home/Body'
-import Footer from '../components/sections/Footer'
+import Header from '../src/components/sections/Header'
+import Body from '../src/components/Home/Body'
+import Footer from '../src/components/sections/Footer'
 
 function Index() {
     return (

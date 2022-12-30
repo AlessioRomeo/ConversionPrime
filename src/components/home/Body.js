@@ -1,5 +1,5 @@
 import React, {useState} from 'react';
-import styles from '../../styles/HomeBody.module.scss'
+import styles from '../../../styles/HomeBody.module.scss'
 import Image from "next/image";
 import {HiDocumentDuplicate, HiShieldCheck} from "react-icons/hi";
 import {HiOutlineDocumentPlus} from "react-icons/hi2";
