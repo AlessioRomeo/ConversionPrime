@@ -1,6 +1,6 @@
 import React from 'react';
 import Header from '../src/components/sections/Header'
-import Body from '../src/components/Home/Body'
+import Body from '../src/components/ImageConverter/Body'
 import Footer from '../src/components/sections/Footer'
 
 function Index() {
